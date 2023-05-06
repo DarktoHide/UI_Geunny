@@ -16,6 +16,7 @@
             android:layout_height="wrap_content"
             android:textColor="#FF0000"
             android:textSize="30sp"
+            android:textStyle="Bold"
             android:text="안녕하세요"/>
 
 
