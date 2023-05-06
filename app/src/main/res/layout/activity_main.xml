@@ -15,6 +15,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="#FF0000"
+            android:textSize="30sp"
             android:text="안녕하세요"/>
 
 
@@ -22,6 +23,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="#80FF00"
+            android:textSize="12sp"
             android:text="그니입니다."/>
 
 
